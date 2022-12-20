@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Cedrick
+- Do people even read these
 - 👀 I’m interested in Coding and becoming a better person
 - 🌱 I’m currently learning flutter(dart)
 - 💞️ I’m looking to collaborate on bots
